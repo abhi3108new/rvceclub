@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20938f0f.css",
+    "main.js": "/static/js/main.c61ba978.js",
+    "static/media/pristine-609.mp3": "/static/media/pristine-609.9287f5ce5c38a8284926.mp3",
+    "static/media/loading.gif": "/static/media/loading.10625dac567208a8ef3d.gif",
+    "static/media/logo.png": "/static/media/logo.52b03c8101588c22e39d.png",
+    "index.html": "/index.html",
+    "main.20938f0f.css.map": "/static/css/main.20938f0f.css.map",
+    "main.c61ba978.js.map": "/static/js/main.c61ba978.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20938f0f.css",
+    "static/js/main.c61ba978.js"
+  ]
+}
